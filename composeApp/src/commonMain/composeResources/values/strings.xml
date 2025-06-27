@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InvoiceMaker</string>
+    <string name="item">Item</string>
+    <string name="client">Client</string>
+    <string name="estimate">Estimate</string>
+    <string name="invoice">Invoice</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="revenue">Revenue</string>
+    <string name="expenses">Expenses</string>
+    <string name="profit">Profit</string>
+    <string name="tools">Tools</string>
+</resources>
